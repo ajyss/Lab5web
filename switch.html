@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Switch JavaScript</title>
+</head>
+<body>
+  <h2>Contoh Seleksi Kondisi (Switch)</h2>
+  <script>
+    let hari = prompt("Masukkan nama hari (misal: Senin):");
+
+    switch (hari.toLowerCase()) {
+      case "senin":
+        alert("Hari kerja pertama!");
+        break;
+      case "sabtu":
+        alert("Akhir pekan telah tiba!");
+        break;
+      case "minggu":
+        alert("Hari libur nasional!");
+        break;
+      default:
+        alert("Hari tidak dikenali!");
+    }
+  </script>
+</body>
+</html>

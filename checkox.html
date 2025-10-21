@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CheckBox dengan Perhitungan Otomatis</title>
+</head>
+<body>
+  <h2>Pilih Makanan Favorit:</h2>
+
+  <input type="checkbox" name="makanan" value="Nasi Goreng" onclick="hitungTotal()"> Nasi Goreng <br>
+  <input type="checkbox" name="makanan" value="Bakso" onclick="hitungTotal()"> Bakso <br>
+  <input type="checkbox" name="makanan" value="Sate" onclick="hitungTotal()"> Sate <br>
+  <input type="checkbox" name="makanan" value="Mie Ayam" onclick="hitungTotal()"> Mie Ayam <br><br>
+
+  <p>Total item dipilih: <span id="total">0</span></p>
+
+  <script>
+    function hitungTotal() {
+      let checkbox = document.querySelectorAll('input[name="makanan"]:checked');
+      document.getElementById("total").innerText = checkbox.length;
+    }
+  </script>
+</body>
+</html>
