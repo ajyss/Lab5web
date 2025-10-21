@@ -1,20 +1,16 @@
 # 🌐 Praktikum 5 – JavaScript
 
 👨‍💻 **Mata Kuliah:** Pemrograman Web
-🏫 **Universitas Pelita Bangsa, Bekasi**
-📅 **Dosen Pengampu:** Agung Nugroho
-🧑‍🎓 **Nama:** *(Isi dengan nama kamu)*
-🆔 **NIM:** *(Isi NIM kamu)*
-💻 **Kelas:** *(Contoh: TI.24.A3)*
 
----
+🏫 **Universitas Pelita Bangsa**
 
-## 🎯 Tujuan Praktikum
+📅 **Dosen Pengampu:** Agung Nugroho, S.Kom., M.Kom
 
-1️⃣ Memahami sintaks dasar **JavaScript**.
-2️⃣ Mengetahui cara penggunaan JavaScript dalam file HTML.
-3️⃣ Membuat program JavaScript sederhana untuk menampilkan data & interaksi.
-4️⃣ Melakukan **manipulasi elemen HTML (DOM)** menggunakan JavaScript.
+🧑‍🎓 **Nama:** Muhammad Azi Tri Ramadhan
+
+🆔 **NIM:** 312410380
+
+💻 **Kelas:** TI.24.A3
 
 ---
 ## ⚙️ Langkah-Langkah Praktikum
