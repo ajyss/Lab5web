@@ -1,7 +1,7 @@
 # 🌐 Praktikum 5 – JavaScript
 🏫 **Universitas Pelita Bangsa**
 
-🧑‍🎓 **Nama:** Muhammad Azi Tri Ramadhan
+🧑 **Nama:** Muhammad Aziz Tri Ramadhan
 
 🆔 **NIM:** 312410380
 
