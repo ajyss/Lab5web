@@ -12,8 +12,7 @@
 📅 **Dosen Pengampu:** Agung Nugroho, S.Kom., M.Kom
 
 ---
-## ⚙️ Langkah-Langkah Praktikum
-
+## ⚙️ Langkah-Langkah Praktikumt 
 ---
 
 ### 🧾 **1️⃣ Pengenalan JavaScript**
