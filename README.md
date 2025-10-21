@@ -1,16 +1,15 @@
 # 🌐 Praktikum 5 – JavaScript
-
-👨‍💻 **Mata Kuliah:** Pemrograman Web
-
 🏫 **Universitas Pelita Bangsa**
-
-📅 **Dosen Pengampu:** Agung Nugroho, S.Kom., M.Kom
 
 🧑‍🎓 **Nama:** Muhammad Azi Tri Ramadhan
 
 🆔 **NIM:** 312410380
 
 💻 **Kelas:** TI.24.A3
+
+👨‍💻 **Mata Kuliah:** Pemrograman Web
+
+📅 **Dosen Pengampu:** Agung Nugroho, S.Kom., M.Kom
 
 ---
 ## ⚙️ Langkah-Langkah Praktikum
